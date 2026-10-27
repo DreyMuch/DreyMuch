@@ -19,7 +19,7 @@
 
 ## What I do
 
-I'm an AI engineer at **Econet AI** in Harare. With the Languages Lab team I work on **Shona and Ndebele speech technology**: text-to-speech voices for IVR, speech recognition, and the evaluation harness that decides whether a new model is good enough to ship. We're now sourcing data for Igbo, Twi and French.
+I'm an AI engineer for Africa. With the Languages Lab team I work on **Shona and Ndebele speech technology**: text-to-speech voices for IVR, speech recognition, and the evaluation harness that decides whether a new model is good enough to ship. We're now sourcing data for Igbo, Twi and French.
 
 I didn't come to AI straight from a notebook. I started as a software developer at Telecel, then spent five years at Ecocash: leading service performance analytics for platforms used by millions of people, then working as a DevOps engineer across Ecocash, Sasai, Ecosure and Kashagi. So I care about what happens around a model as much as the model itself.
 
