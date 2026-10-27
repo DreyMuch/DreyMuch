@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://dreymuch.github.io">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/spiwe-audrey-muchemwa/">LinkedIn</a> ·
   <a href="mailto:audrey.spiwe@gmail.com">Email</a> ·
   <a href="https://github.com/DreyMuch/rubatsiro">Flagship project</a>
