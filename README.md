@@ -61,11 +61,12 @@ How I work through that chain:
 | Repository | What it shows |
 | --- | --- |
 | [rubatsiro](https://github.com/DreyMuch/rubatsiro) | Helpdesk ticket triage in Shona, English and the mix of both: FastAPI app, Postgres and an analytics pipeline, a baseline vs a PyTorch model, LLM-drafted replies, Docker and CI/CD |
+| [afrisenti-baselines](https://github.com/DreyMuch/afrisenti-baselines) | Sentiment analysis for Igbo, Twi, Nigerian Pidgin and Swahili tweets on real AfriSenti data: word vs character models, one shared model vs four, learning curves, and a label shift that monitoring should catch |
 | [mobile-money-churn](https://github.com/DreyMuch/mobile-money-churn) | Predicting which wallet customers will go quiet, scored by how many a retention team can actually reach |
 | [transaction-forecasting](https://github.com/DreyMuch/transaction-forecasting) | Four-week forecasts that know about payday, Zimbabwean public holidays and tariff changes, with a rolling backtest |
 | [server-metrics-anomalies](https://github.com/DreyMuch/server-metrics-anomalies) | AIOps incident detection, comparing static thresholds, seasonal z-scores and isolation forests |
 
-The data in these repos is simulated, since customer data can't be published, but it's built to behave like the real thing. My speech work at Econet AI is internal.
+afrisenti-baselines uses the public AfriSenti dataset. The data in the other repos is simulated, since customer data can't be published, but it's built to behave like the real thing. My speech work at Econet AI is internal.
 
 ## Technologies
 
